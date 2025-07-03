@@ -364,4 +364,4 @@ class Shop:
         self.quantity -= 1
 """
 
-
+print("Hi")
